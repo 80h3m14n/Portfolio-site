@@ -14,7 +14,7 @@ Personal-Portfolio/
 │   │   ├── favicon.png         # Website favicon
 │   │   └── my-profile.jpeg     # Profile picture
 │   └── js/
-│       └── script.js           # JS for interactivity (e.g. animations, form validation)
+│       └── script.js           # JS for interactivity
 └── index.html                  # Main landing page
 ```
 
