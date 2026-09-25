@@ -1,6 +1,7 @@
 # 💼 Personal-Portfolio
 
 This is a basic static personal portfolio website built using plain HTML, CSS, and JavaScript.
+
 It's lightweight, responsive, and easy to customize for showcasing your skills, projects, and contact info.
 
 ## 📁 Project Structure
